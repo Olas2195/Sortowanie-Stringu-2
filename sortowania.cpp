@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
 				cout<<"KONIEC!";
 				break;
 			default:
-				cout<<"Nieprawid³owy wybor\n";
+				cout<<"NieprawidÂ³owy wybor\n";
 				break;
 		}
 	}while(x!=0);
